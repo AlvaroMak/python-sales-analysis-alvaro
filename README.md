@@ -1,53 +1,44 @@
 # Sales & Revenue Analysis with Python
 ### Python Data Analysis Project by Álvaro Martínez
 
-> This project uses Python and pandas to analyze sales and revenue data, focusing on data cleaning, transformation, and business insights.
+This project demonstrates a practical data analysis workflow using Python and pandas, focused on sales and revenue insights beyond SQL queries.
+
+The analysis emphasizes data preparation, validation, aggregation, visualization, and business-oriented interpretation.
 
 ---
 
-## 📊 Project Overview
+## Project Overview
 
-The goal of this project is to demonstrate how Python can be used to analyze business data beyond SQL queries, including:
-
-- Loading and exploring datasets using pandas  
-- Cleaning and validating data  
-- Creating derived metrics and features  
-- Analyzing sales and revenue trends  
-- Generating clear, business-oriented insights  
-
-The analysis is performed in a Jupyter Notebook and is designed to be easy to follow.
+- Loaded and validated multiple sales-related datasets
+- Merged transactional and dimensional data into a single analysis table
+- Calculated revenue using actual unit prices
+- Analyzed revenue by product category
+- Evaluated monthly revenue trends using visualizations
+- Interpreted results from a business perspective
 
 ---
 
-## 🗂 Dataset
-
-- The dataset used in this project is **synthetic** and represents a typical sales environment.
-- Data files are stored in the `/data` folder.
-- The dataset is intended for demonstration purposes only.
-
----
-
-## ▶️ How to Reproduce the Analysis
-
-1. Clone this repository.
-2. Install required Python libraries (pandas, numpy, matplotlib).
-3. Open the notebook located in the `/notebooks` folder.
-4. Run the notebook cells sequentially to reproduce the analysis.
-
----
-
-## 🧠 Key Skills Demonstrated
+## Key Skills Demonstrated
 
 - Python
 - pandas
 - Data cleaning and transformation
 - Exploratory data analysis
-- Business-oriented data analysis
-- Clear communication of insights
+- Revenue and KPI analysis
+- Business-oriented communication of insights
 
 ---
 
-## 📂 Repository Structure
+## Analysis Notebook
+
+The complete analysis is available in the notebook below:
+
+📓 **Notebook:**  
+`notebooks/sales_analysis.ipynb`
+
+---
+
+## Repository Structure
 ```text
 /data
 
@@ -62,9 +53,9 @@ README.md
 
 ---
 
-## 👤 About Me
+## About Me
 
-I am an Application Support Specialist and SQL Analyst transitioning into data-focused roles, with a strong interest in Python-based data analysis.
+I am an Application Support Specialist and SQL Analyst with 13+ years of experience in enterprise environments, currently transitioning into data-focused roles with a strong emphasis on SQL, Python, and analytics.
 
-You can connect with me on LinkedIn:  
+LinkedIn:  
 https://linkedin.com/in/alvaro-martinez-k
