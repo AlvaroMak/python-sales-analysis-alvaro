@@ -1,2 +1,8 @@
-This folder contains the dataset used for the Python sales analysis project.
-The data is synthetic and intended for demonstration purposes.
+This folder contains the synthetic dataset used for the Python sales analysis project.
+
+Files included:
+- customers.csv
+- products.csv
+- orders.csv
+- order_items.csv
+
